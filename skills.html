@@ -1,0 +1,24 @@
+---
+title: Jamie Buckley - Skills
+layout: default
+---
+<div class="container">
+    <h2 class="is-centered">Skills</h2>
+
+    <div class="row">
+        {% for skills-section in site.data.skills %}
+        <div class="col-4">
+            <div class="card">
+                <div class="card-header">
+                    {{skills-section.name }}
+                </div>
+                <div class="card-body">
+                    <p>
+                        {{skills-section.body }}
+                    </p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>

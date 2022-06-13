@@ -1,57 +1,3 @@
-@font-face {
-    font-family: altone;
-    src: url(fonts/AltoneTrial-Bold.ttf);
-}
-
-@font-face {
-    font-family: altone-regular;
-    src: url(fonts/AltoneTrial-Regular.ttf);
-}
-
-html, body {
-    padding: 0px;
-    margin: 0px;
-    height: 100%;
-    font-family: altone;
-}
-
-body {
-    background-color: #F9F8F3;
-    display: flex;
-    flex-direction: column;
-}
-
-header {
-    font-size: 24px;
-    padding: 18px;
-    padding-top: 32px;
-    padding-bottom: 32px;
-    background-color: #ffffff;
-}
-
-.flex {
-    flex-grow: 1;
-    display: flex;
-    height: 100%;
-    min-height: 600px;
-}
-
-.flex-item {
-    flex-grow: 1;
-}
-
-.left-column, .right-column {
-    position: relative;
-    height:100%;
-}
-
-
-@media screen and (max-width: 1000px) {
-    .right-column {
-        display: none;
-    }    
-}
-
 
 .profile-section {
     width: 400px;
@@ -77,6 +23,7 @@ header {
 
 .profile-intro h1 {
     font-size: 55px;
+    font-family: altone;
 }
 
 .profile-intro h2 {

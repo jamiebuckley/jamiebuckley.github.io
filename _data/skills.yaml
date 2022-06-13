@@ -1,0 +1,18 @@
+- name: Programming Languages
+  body: "C#, Javascript (Front end & Node), Ruby, Python"
+- name: Stacks
+  body: ASP.NET Core, Rails, Spring Boot, Express, Flask, Django
+- name: Databases
+  body: "Relational: Postgres, SQL Server, Oracle.  NoSQL: MongoDB, Cosmos, DynamoDB"
+- name: Cloud
+  body: Extensive experience with AWS & Azure.
+- name: IaC
+  body: Terraform, Cloudformation, ARM Templates, CDK and SAM
+- name: CI/CD
+  body: AWS Code-*, Azure Devops, Jenkins, Drone, Github Actions, TeamCity
+- name: Architecture
+  body: Architected many solutions, ranging from small low maintenance applications to large interconnected cloud native systems
+- name: QA
+  body: BDD, Selenium, Puppeteer, Capybara, Specflow, Testcafe
+- name: Soft Skills
+  body: Tech leadership, Refinement, Agile, Project Delivery, Stakeholder interaction, Requirements gathering
