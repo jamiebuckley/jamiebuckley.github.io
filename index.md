@@ -46,7 +46,7 @@ The goal was to use the currently available staff who could not work, to phone a
 
 We built the initial application in Rails in around 4 weeks, with a further 4 weeks spent on various feature additions.  This is available as open source [here](https://github.com/wearefuturegov/beacon), although I have not worked on it since 2020.
 
-More recently, work in Ruby involved a service directory used across various UK councils, open source [here](https://github.com/wearefuturegov/outpost) and initial work as a technical lead and consultant on the GDX Data Marketplace for the Cabinet Office.
+More recently, work in Ruby involved a service directory used across various UK councils, open source [here](https://github.com/wearefuturegov/outpost) and initial work as a technical lead and consultant on the [GDX Data Marketplace](https://www.gov.uk/government/publications/roadmap-for-digital-and-data-2022-to-2025/transforming-for-a-digital-future-2022-to-2025-roadmap-for-digital-and-data) for the Cabinet Office.
 
 ## C#
 I started working in C#/ASP.NET MVC in around 2015, at which time it wasn't a great environment to be developing in.  VB.NET was still a viable competitor, and C# was a closed source, locked down environment.
