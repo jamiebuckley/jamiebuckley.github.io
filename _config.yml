@@ -1,2 +1,6 @@
-collections:
-  - projects
+title: Jamie Buckley
+logo: /assets/img/circle-logo.png
+description: Technical Lead/Architect/Developer
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
