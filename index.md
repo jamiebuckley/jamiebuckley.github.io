@@ -15,7 +15,7 @@ Additional interests I have include other languages (surprise, surprise) such as
 Here's a breakdown of the work I've done in each stack:
 
 ## Javascript/Typescript
-Javascript has always been inescapable in any form of web development, but I was an active participant in the early movement of JS becoming a 'proper' language from around 2015 or so.  This was back when bower was viable alternative to npm.  Talking about bower feels a lot like talking about MySpace.  
+Javascript has always been inescapable in any form of web development, but I was an enthusiastic participant in the early days of JS becoming a 'proper' language, from around 2015 or so.  This was back when bower was viable alternative to npm.  Talking about bower feels a lot like talking about MySpace.  
 
 I jumped on the Typescript hype-train early too, after my experiences trying to maintain tens of thousands of lines of untyped JS for applications in the travel industry.
 
