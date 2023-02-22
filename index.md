@@ -4,13 +4,15 @@ layout: default
 
 # About me
 
-I'm a software engineer, and technical lead, with the primary programming languages of Javascript/Typescript, Ruby, C# and Java and some Python.  I've worked as a developer, a technical lead, an architect, and have been involved in projects ranging from the deeply technical to ones that are purely about understanding requirements.
+I'm a software engineer, and technical lead, with the primary programming languages of Javascript/Typescript, Ruby, C# and Java.  I've worked as a developer, a technical lead, an architect, and have been involved in projects ranging from the deeply technical to ones that are purely about understanding organisations, their requirements and their data.
 
-Sometimes I get queries about which language is my "main" one, but programming languages aren't human languages as much as they are collections of logical concepts, like generics, lambdas, immutability etc.  
+Sometimes I get queries about which language is my "main" one, but programming languages aren't human languages as much as they are collections of logical concepts, like generics, lambdas, immutability etc.  Working across languages is the best way to become better at each of them.
 
-Working across languages is the best way to become better at each of them.
+The languages listed above are those that I understand in depth, including their common libraries, package management, build tools and so on.
 
-Here's a breakdown of the work I've done in each:
+Additional interests I have include other languages (surprise, surprise) such as Kotlin and Python, cloud engineering (AWS and Azure) and infrastructure (Terraform, K8s and more).
+
+Here's a breakdown of the work I've done in each stack:
 
 ## Javascript/Typescript
 Javascript has always been inescapable in any form of web development, but I was an active participant in the early movement of JS becoming a 'proper' language from around 2015 or so.  This was back when bower was viable alternative to npm.  Talking about bower feels a lot like talking about MySpace.  
@@ -49,8 +51,8 @@ We built the initial application in Rails in around 4 weeks, with a further 4 we
 More recently, work in Ruby involved a service directory used across various UK councils, open source [here](https://github.com/wearefuturegov/outpost) and initial work as a technical lead and consultant on the [GDX Data Marketplace](https://www.gov.uk/government/publications/roadmap-for-digital-and-data-2022-to-2025/transforming-for-a-digital-future-2022-to-2025-roadmap-for-digital-and-data) for the Cabinet Office.
 
 ## C#
-I started working in C#/ASP.NET MVC in around 2015, at which time it wasn't a great environment to be developing in.  VB.NET was still a viable competitor, and C# was a closed source, locked down environment.
+I started working in C#/ASP.NET MVC in around 2015.  At the time I was building applications primarily aimed at the Health and Safety/Building services departments for universities and hospitals, using .NET MVC, Entity Framework, SQL Server and Oracle.  
 
-It was a shame, because the language itself was beautiful, but the ecosystem was very limiting, from everything from databases to devops.  As a result, I avoided it professionally for several years (other than quite a bit of personal development in frameworks like Unity).
+.NET at the time, was a closed source, locked down environment.  It was a shame, because the language itself was beautiful, but the ecosystem was very limiting, from everything from databases to devops.  Docker was gaining traction at that point, and C#/.NET had no good way of taking advantage of the progress being made there.  As a result, I avoided C# and .NET professionally for several years (other than quite a bit of personal development in frameworks like Unity).
 
-In 2020, I started a contract for Wales and West Utilities, a gas company, that was built in .NET Core.  This used both .NET Core WebAPI with the Mediatr pattern, and Azure Functions.
+In 2020, I started a contract with Foundry4 for Wales and West Utilities, a gas company, that was built in .NET Core.  This used both .NET Core WebAPI with the Mediatr pattern, and Azure Functions.  I joined the team as a contract engineer, and took over as technical lead shortly after.
